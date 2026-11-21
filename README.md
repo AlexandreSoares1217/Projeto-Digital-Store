@@ -83,11 +83,13 @@ npm run lint    # lint com oxlint
 
 ## 👥 Equipe
 
-> ⚠️ **Preencha com o nome de todos os integrantes da equipe** (obrigatório na entrega — veja o edital):
->
-> - **Nome do integrante 1**
-> - **Nome do integrante 2**
-> - **Nome do integrante 3**
+- **Carlos Alexandre Teles Soares**
+
+> Trabalho feito sozinho (o edital permite entrega individual — `pode ser feito sozinho(a)`).
+
+## 🚀 Deploy
+
+- **Versão ao vivo:** https://projeto-digital-store-jade.vercel.app
 
 ## 📚 Referências
 
