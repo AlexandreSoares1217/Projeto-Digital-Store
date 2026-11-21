@@ -1,0 +1,31 @@
+.product-view {
+  padding: 32px 80px 64px;
+}
+
+.product-view__top {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  margin-bottom: 48px;
+}
+
+.product-view__top > .gallery {
+  flex: 0 0 700px;
+  max-width: 100%;
+}
+
+.product-view__top > .buybox {
+  flex: 1;
+  min-width: 0;
+}
+
+.product-view__label {
+  font-size: 14px;
+  color: var(--dark-gray-2);
+  margin-top: 12px;
+}
+
+.product-view .section {
+  padding: 0;
+}

@@ -1,0 +1,21 @@
+.home__gallery {
+  display: flex;
+  justify-content: center;
+  padding: 24px 80px 0;
+}
+
+.home__collections {
+  display: flex;
+  gap: 24px;
+  width: 100%;
+}
+
+.home__collections img {
+  display: block;
+  flex: 1;
+  min-width: 0;
+  height: 240px;
+  object-fit: contain;
+  background: var(--light-gray-3);
+  border-radius: 4px;
+}

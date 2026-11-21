@@ -1,0 +1,35 @@
+.product-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 292px;
+}
+
+.product-card__image {
+  width: 292px;
+  height: 321px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.product-card__name {
+  font-size: 14px;
+  color: var(--dark-gray-3);
+}
+
+.product-card__prices {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.product-card__price {
+  font-size: 24px;
+  color: var(--dark-gray);
+}
+
+.product-card__price--old {
+  font-size: 14px;
+  color: var(--light-gray);
+  text-decoration: line-through;
+}
